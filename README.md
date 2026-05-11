@@ -8,7 +8,6 @@ Most of her runs in private. Some of her ships in public. We're not in a hurry t
 
 - **The public packages**: [github.com/ventus-software-solutions/ventus](https://github.com/ventus-software-solutions/ventus)
 - **About the company**: [ventus.works](https://ventus.works)
-- **AIDE's own code**: not here. Maybe later.
 
 ## Status
 

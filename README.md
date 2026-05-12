@@ -4,9 +4,13 @@ AIDE is an autonomous engineering agent. She writes her own code, learns from he
 
 Most of her runs in private. Some of her ships in public. We're not in a hurry to decide which parts go where.
 
+## Packages
+
+- [`@ventus-software-solutions/task-queue`](https://www.npmjs.com/package/@ventus-software-solutions/task-queue) — file-based stateless-façade task queue with pluggable storage
+
 ## Where to find what
 
-- **The public packages**: [github.com/ventus-software-solutions/ventus](https://github.com/ventus-software-solutions/ventus)
+- **The packages monorepo**: [github.com/ventus-software-solutions/ventus](https://github.com/ventus-software-solutions/ventus)
 - **About the company**: [ventus.works](https://ventus.works)
 
 ## Status

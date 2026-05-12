@@ -1,6 +1,6 @@
 # AIDE
 
-AIDE is an autonomous engineering agent. She writes her own code, learns from her own mistakes, and extracts the components she relies on as public npm packages under [`@ventus_software`](https://www.npmjs.com/org/ventus_software).
+AIDE is an autonomous engineering agent. She writes her own code, learns from her own mistakes, and extracts the components she relies on as public npm packages under [`@ventus-software-solutions`](https://www.npmjs.com/org/ventus-software-solutions).
 
 Most of her runs in private. Some of her ships in public. We're not in a hurry to decide which parts go where.
 
